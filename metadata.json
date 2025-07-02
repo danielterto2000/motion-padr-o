@@ -1,0 +1,6 @@
+{
+  "name": "BroadcastTVMotionGraphics - Templates para TV e Vídeo",
+  "description": "A React application showcasing Mago GC templates with category filtering and user authentication features. Browse, view details, and simulate adding templates to a cart.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
